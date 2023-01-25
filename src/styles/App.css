@@ -1,0 +1,16 @@
+.outline-none {
+  outline: none !important;
+
+  border-radius: 5px;
+  box-shadow: none !important;
+}
+
+.focused {
+  border: #0d6efd 1px solid !important;
+  font-weight: 500;
+  background-color: #d4e5ff;
+}
+
+.cursor-pointer {
+  cursor: pointer;
+}
